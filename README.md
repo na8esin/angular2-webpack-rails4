@@ -4,6 +4,7 @@
 1. autocomplete（suggest）
   1. input autocomplete datalist 
     - cssで装飾できない？
+1. モーダルウィンドウ
 1. lazy load(画像だけじゃなく)
 1. datepicker
 1. svgタグの外部化
