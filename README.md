@@ -1,4 +1,6 @@
 # angular2-webpack-rails4
+## よく使うgitコマンド
+git remote set-url origin https://na8esin@github.com/na8esin/angular2-webpack-rails4
 
 ## 課題
 1. autocomplete（suggest）
